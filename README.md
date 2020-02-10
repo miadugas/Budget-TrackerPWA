@@ -11,7 +11,7 @@
 Hey, you got this now! 
 As part of my "Adulting Series" of apps you now have a Budget Tracker to help you stay on the right side (positive side) of your bank account.
 
-Track your spending, be an adult and never say the phrase " I should be ok" 
+Track your spending, be an adult and never say the phrase " I should be ok" ever again.
 
 You'll be able to add expenses and deposits to your budget with or without an internet onnection. When entering transactions offline, they should populate the total when brought back online.
 
