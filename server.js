@@ -25,3 +25,8 @@ mongoose.connect("mongodb://localhost/budget", {
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
 });
+
+var MONGODB_URI = process.env.MONGODB_URI || "mongodb://<dbuser>:<dbpassword>@ds021034.mlab.com:21034/heroku_9xmlgfpl";
+
+//Connect to the Mongo DB
+mongoose.connect(MONGODB_URI);
